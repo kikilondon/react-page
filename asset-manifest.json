@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-page/static/css/main.ac1bc0ac.css",
+    "main.js": "/react-page/static/js/main.5e7e5386.js",
+    "static/media/children.png": "/react-page/static/media/children.1e833edf738e796645fd.png",
+    "static/media/device-pile.png": "/react-page/static/media/device-pile.cacdca76acd9071dff81.png",
+    "static/media/background.jpg": "/react-page/static/media/background.4898582ca6560b167eda.jpg",
+    "static/media/tv.png": "/react-page/static/media/tv.62abd19b49af5cf6dd4d.png",
+    "static/media/NetflixSansBlack.ttf": "/react-page/static/media/NetflixSansBlack.4ebb8580a2397f88aed0.ttf",
+    "static/media/NetflixSansBold.ttf": "/react-page/static/media/NetflixSansBold.cea8acffd548be06c7c7.ttf",
+    "static/media/NetflixSansMedium.ttf": "/react-page/static/media/NetflixSansMedium.a02ab994a041ae11d8ca.ttf",
+    "static/media/NetflixSansLight.ttf": "/react-page/static/media/NetflixSansLight.cde797b7181b90930d0f.ttf",
+    "static/media/mobile.jpg": "/react-page/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "static/media/Logo.png": "/react-page/static/media/Logo.8768947d7cceb0eb9563.png",
+    "static/media/small.png": "/react-page/static/media/small.ef4b8b0c62a5a1a359f6.png",
+    "index.html": "/react-page/index.html",
+    "main.ac1bc0ac.css.map": "/react-page/static/css/main.ac1bc0ac.css.map",
+    "main.5e7e5386.js.map": "/react-page/static/js/main.5e7e5386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1bc0ac.css",
+    "static/js/main.5e7e5386.js"
+  ]
+}
