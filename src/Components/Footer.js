@@ -39,7 +39,7 @@ function Footer() {
                         
                     </span></div>
                 </div>
-                <div className="last-p"><p>Netflix United Kingdom / source: <a href="https://www.netflix.com/gb/" className='link'>www.netflix.com/gb/</a></p></div>
+                
                 
             </div>
 
