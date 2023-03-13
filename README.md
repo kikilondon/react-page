@@ -1,9 +1,7 @@
 # Netflix landing page clone
 
 This project is a clone of the Netflix website landing page created in React.js. I didn't use any library to build components.<br>
-At the bottom, in the footer, you will find the link to the original webpage cloned.
-
-Live Netflix clone page:  https://kikilondon.github.io/react-page/
+Live Netflix's clone landing page:  https://kikilondon.github.io/react-page/
 
 <hr>
 
